@@ -6,4 +6,4 @@ You have to create .env folder in the "Aiza Chiwawa" directory and add your disc
 
 Thank you 
 
-Feel Free to query zdeen164@gmail.com
+Feel free to query zdeen164@gmail.com
